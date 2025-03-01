@@ -1,2 +1,2 @@
 # GitHub-Demo
-It is just demo file, Used for learning GitHub
+It is just demo Repo, Used for learning GitHub.
